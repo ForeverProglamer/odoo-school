@@ -1,12 +1,12 @@
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl-3.0.html).
 
 {
-    'name': 'My Library',
+    'name': 'Now, it is MY Library',
     'version': '15.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """My Library (sample for Module 2).""",
     'license': 'LGPL-3',
-    'author': 'Odoo School',
+    'author': 'ForeverProglamer',
     'website': 'https://odoo.school',
     'depends': [
         'base',
